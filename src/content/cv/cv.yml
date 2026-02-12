@@ -1,0 +1,56 @@
+education:
+  - degree: "Ph.D. in Computer Science"
+    institution: "Massachusetts Institute of Technology"
+    year: "2017–2021"
+    description: "Thesis: Neural Approaches to Cross-Lingual NLP."
+  - degree: "B.S. in Computer Science (Highest Honors)"
+    institution: "University of California, Berkeley"
+    year: "2013–2017"
+    description: "Graduated summa cum laude."
+
+experience:
+  - title: "Assistant Professor"
+    organization: "Greendale University"
+    start_date: "2022"
+    end_date: "Present"
+    description: "Leading the Language, Learning & Fairness Lab."
+  - title: "Postdoctoral Researcher"
+    organization: "Google DeepMind"
+    start_date: "2021"
+    end_date: "2022"
+    description: "Large language model alignment and safety."
+  - title: "Research Intern"
+    organization: "Meta AI (FAIR)"
+    start_date: "Summer 2020"
+    end_date: "Summer 2020"
+    description: "Multilingual NLP and cross-lingual transfer."
+
+skills:
+  - category: "Programming"
+    items: ["Python", "PyTorch", "JAX", "C++", "TypeScript"]
+  - category: "ML/NLP"
+    items: ["Transformers", "Reinforcement Learning", "Multimodal Learning", "Fairness"]
+  - category: "Tools"
+    items: ["Git", "Docker", "Kubernetes", "LaTeX", "Weights & Biases"]
+
+awards:
+  - title: "NSF CAREER Award"
+    organization: "National Science Foundation"
+    year: 2024
+  - title: "Best Paper Award"
+    organization: "ACL 2023"
+    year: 2023
+  - title: "Outstanding Dissertation Award"
+    organization: "MIT EECS"
+    year: 2021
+  - title: "Google PhD Fellowship"
+    organization: "Google"
+    year: 2019
+
+service:
+  - role: "Area Chair"
+    organization: "ACL, EMNLP, NAACL"
+    years: "2023–Present"
+  - role: "Reviewer"
+    organization: "NeurIPS, ICML, ICLR, JMLR"
+    years: "2019–Present"

@@ -1,0 +1,11 @@
+media:
+  - title: "AI Fairness: Making Machine Learning Work for Everyone"
+    outlet: "MIT Technology Review"
+    date: "2024-03-15"
+    type: "article"
+    url: "https://example.com"
+  - title: "The Future of NLP — Podcast Interview"
+    outlet: "Gradient Dissent (W&B)"
+    date: "2023-09-20"
+    type: "podcast"
+    url: "https://example.com"

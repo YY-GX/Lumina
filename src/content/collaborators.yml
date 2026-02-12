@@ -1,0 +1,13 @@
+collaborators:
+  - name: "Prof. Robert Johnson"
+    affiliation: "MIT"
+    url: "https://example.com"
+  - name: "Prof. Emily Williams"
+    affiliation: "UC Berkeley"
+    url: "https://example.com"
+  - name: "Prof. Wei Chen"
+    affiliation: "Tsinghua University"
+    url: "https://example.com"
+  - name: "Dr. Maria Garcia"
+    affiliation: "Google DeepMind"
+    url: "https://example.com"

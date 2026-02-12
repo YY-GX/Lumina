@@ -1,0 +1,73 @@
+# Lumina — Site Configuration
+# Edit this file to configure your site. Toggle pages, set info, customize theme.
+
+site:
+  title: "Richard D. Sanchez"
+  description: "Assistant Professor of Computer Science"
+  url: "https://username.github.io"
+  language: "en"
+
+profile:
+  name: "Richard Daniel Sanchez"
+  position: "Assistant Professor"
+  affiliation: "Department of Computer Science"
+  university: "Greendale University"
+  email: "r.sanchez@greendale.edu"
+  avatar: "/images/avatar.svg"
+  bio: "I am an Assistant Professor of Computer Science at Greendale University. My research focuses on machine learning, natural language processing, and AI for social good."
+  bio_short: "Researching ML, NLP, and AI for social good."
+
+social:
+  google_scholar: "https://scholar.google.com/citations?user=XXXXXXX"
+  github: "https://github.com/username"
+  twitter: "https://twitter.com/username"
+  linkedin: "https://linkedin.com/in/username"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  semantic_scholar: ""
+  dblp: ""
+  email: "r.sanchez@greendale.edu"
+
+pages:
+  about: true
+  publications: true
+  cv: true
+  projects: true
+  news: true
+  teaching: true
+  talks: true
+  awards: true
+  team: true
+  positions: true
+  collaborators: true
+  service: true
+  repositories: true
+  blog: true
+  gallery: true
+  books: true
+  media: true
+  travel: true
+
+theme:
+  cursor_spotlight: false
+  style: "modern"
+  palette: "default"
+  random_theme: false
+  avatars:
+    - "/images/avatar.svg"
+
+publications:
+  author_name: "Richard Daniel Sanchez"
+  bibtex_file: "papers.bib"
+  group_by_year: true
+  show_badges: true
+
+blog:
+  posts_per_page: 10
+  show_reading_time: true
+  show_table_of_contents: true
+  comments:
+    enabled: false
+    repo: ""
+    repo_id: ""
+    category: ""
+    category_id: ""

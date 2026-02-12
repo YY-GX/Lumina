@@ -1,0 +1,16 @@
+locations:
+  - name: "Vienna, Austria"
+    lat: 48.2082
+    lng: 16.3738
+    date: "2024-07"
+    event: "ICML 2024"
+  - name: "Toronto, Canada"
+    lat: 43.6532
+    lng: -79.3832
+    date: "2023-07"
+    event: "ACL 2023"
+  - name: "Singapore"
+    lat: 1.3521
+    lng: 103.8198
+    date: "2023-12"
+    event: "EMNLP 2023"

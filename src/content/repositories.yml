@@ -1,0 +1,16 @@
+repositories:
+  - name: "efficient-transfer"
+    description: "Code for efficient knowledge transfer methods"
+    url: "https://github.com/username/efficient-transfer"
+    language: "Python"
+    stars: 234
+  - name: "fairness-ml"
+    description: "Fairness-aware machine learning toolkit"
+    url: "https://github.com/username/fairness-ml"
+    language: "Python"
+    stars: 512
+  - name: "cross-lingual-nlu"
+    description: "Cross-lingual NLU benchmarks and models"
+    url: "https://github.com/username/cross-lingual-nlu"
+    language: "Python"
+    stars: 178

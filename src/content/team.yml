@@ -1,0 +1,18 @@
+members:
+  - name: "Alex Chen"
+    role: "PhD Student"
+    alumni: false
+  - name: "Priya Patel"
+    role: "PhD Student"
+    alumni: false
+  - name: "Marcus Johnson"
+    role: "Postdoctoral Researcher"
+    alumni: false
+  - name: "Sarah Kim"
+    role: "PhD Student"
+    alumni: true
+    year_left: 2023
+  - name: "David Liu"
+    role: "MS Student"
+    alumni: true
+    year_left: 2023

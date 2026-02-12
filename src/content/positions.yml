@@ -1,0 +1,9 @@
+positions:
+  - title: "PhD Students (Fall 2025)"
+    type: "PhD"
+    description: "Looking for motivated PhD students interested in NLP, ML fairness, or cross-lingual transfer learning."
+    deadline: "December 15, 2024"
+  - title: "Postdoctoral Researcher"
+    type: "Postdoc"
+    description: "One-year position focusing on large language model alignment."
+    deadline: "Rolling"

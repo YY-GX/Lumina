@@ -1,0 +1,36 @@
+courses:
+  - course_id: "CS229"
+    title: "Machine Learning"
+    semester: "Fall"
+    year: 2024
+    role: "Instructor"
+    university: "Greendale University"
+    description: "Graduate-level introduction to machine learning."
+    url: ""
+  - course_id: "CS224N"
+    title: "Natural Language Processing with Deep Learning"
+    semester: "Winter"
+    year: 2024
+    role: "Instructor"
+    university: "Greendale University"
+    description: "Comprehensive introduction to NLP with deep learning."
+    url: ""
+  - course_id: "CS229"
+    title: "Machine Learning"
+    semester: "Fall"
+    year: 2023
+    role: "Instructor"
+    university: "Greendale University"
+  - course_id: "CS224N"
+    title: "Natural Language Processing with Deep Learning"
+    semester: "Winter"
+    year: 2023
+    role: "Co-Instructor"
+    university: "Greendale University"
+  - course_id: "CS198"
+    title: "Introduction to AI Ethics"
+    semester: "Spring"
+    year: 2023
+    role: "Instructor"
+    university: "Greendale University"
+    description: "Undergraduate seminar on ethical considerations in AI."

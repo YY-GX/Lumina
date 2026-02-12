@@ -1,0 +1,13 @@
+books:
+  - title: "Thinking, Fast and Slow"
+    author: "Daniel Kahneman"
+    rating: 5
+    notes: "Essential reading on cognitive biases."
+  - title: "The Book of Why"
+    author: "Judea Pearl"
+    rating: 5
+    notes: "Causal inference explained beautifully."
+  - title: "Weapons of Math Destruction"
+    author: "Cathy O'Neil"
+    rating: 4
+    notes: "Important perspective on algorithmic bias."
